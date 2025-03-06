@@ -1,0 +1,23 @@
+{
+    "dalia@gmail.com": {
+        "first_name": "dalia",
+        "last_name": "karam",
+        "email": "dalia@gmail.com",
+        "password": "8122000",
+        "phone_number": "01141234567"
+    },
+    "sara@gmail.com": {
+        "first_name": "sara",
+        "last_name": "ahmed",
+        "email": "sara@gmail.com",
+        "password": "123456",
+        "phone_number": "01151234567"
+    },
+    "ahmed@gmail.com": {
+        "first_name": "ahmed",
+        "last_name": "hassan",
+        "email": "ahmed@gmail.com",
+        "password": "8122000",
+        "phone_number": "01141122334"
+    }
+}

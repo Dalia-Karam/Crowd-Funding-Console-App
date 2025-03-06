@@ -1,0 +1,18 @@
+[
+    {
+        "project_name": "children's hospital",
+        "project_details": "raising money for children",
+        "total_target": "30000",
+        "start_date": "2025-03-02",
+        "end_date": "2030-12-9",
+        "user_email": "ahmed@gmail.com"
+    },
+    {
+        "project_name": "burn victims",
+        "project_details": "raising money for burn victims",
+        "total_target": "30000",
+        "start_date": "2024-12-30",
+        "end_date": "2030-06-12",
+        "user_email": "dalia@gmail.com"
+    }
+]
